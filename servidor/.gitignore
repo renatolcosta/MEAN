@@ -1,0 +1,6 @@
+# servidor
+# Node
+/node_modules
+
+# Miscellaneous
+/docker/mongoDataBase
